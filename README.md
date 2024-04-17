@@ -6,5 +6,6 @@ https://medium.com/@saleemheebah4/person-detection-using-usb-camera-calculating-
 **To run:**
 
 #cd /opt/edge_ai_apps
+
 #sudo /opt/edge_ai_apps/apps_python/app_edgeai.py configs/object_detection.yaml
 
