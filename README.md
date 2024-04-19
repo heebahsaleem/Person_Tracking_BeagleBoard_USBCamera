@@ -4,6 +4,7 @@
 https://medium.com/@saleemheebah4/person-detection-using-usb-camera-calculating-the-x-y-cooridinates-from-current-location-to-the-0640fe59a8c4
 
 **To run:**
+Go to the below path in BeagleBoard:
 
 #cd /opt/edge_ai_apps
 
